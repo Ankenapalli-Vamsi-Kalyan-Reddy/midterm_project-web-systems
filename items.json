@@ -1,0 +1,78 @@
+{
+    "cheese madurai masala dosa": {
+        "price": 13.95,
+        "orders": 1232
+    },
+    "onion chilli masala dosa": {
+        "price": 11.95,
+        "orders": 1234
+    },
+    "cheese & onion chilli masala dosa": {
+        "price": 12.95,
+        "orders": 1200
+    },
+    "onion rava mysore masala dosa": {
+        "price": 14.95,
+        "orders": 1152
+    },
+    "butter masala dosa": {
+        "price": 12.95,
+        "orders": 3632
+    },
+    "madurai masala dosa": {
+        "price": 12.95,
+        "orders": 1239
+    },
+    "sada dosa": {
+        "price": 9.95,
+        "orders": 1233
+    },
+    "gun powder dosa": {
+        "price": 13.95,
+        "orders": 2461
+    },
+    "onion chilli rava masala dosa": {
+        "price": 14.95,
+        "orders": 1236
+    },
+    "masala dosa": {
+        "price": 10.95,
+        "orders": 4802
+    },
+    "butter mysore masala dosa": {
+        "price": 11.95,
+        "orders": 1220
+    },
+    "malgudi onion rava masala dosa": {
+        "price": 14.95,
+        "orders": 1173
+    },
+    "cheese mysore masala dosa": {
+        "price": 13.95,
+        "orders": 1219
+    },
+    "ghee roast masala dosa": {
+        "price": 11.95,
+        "orders": 1197
+    },
+    "mysore masala dosa": {
+        "price": 11.95,
+        "orders": 1184
+    },
+    "onion rava masala dosa": {
+        "price": 13.95,
+        "orders": 1136
+    },
+    "onion rava sada dosa": {
+        "price": 12.95,
+        "orders": 1205
+    },
+    "cheese masala dosa": {
+        "price": 11.95,
+        "orders": 1172
+    },
+    "paper masala dosa": {
+        "price": 11.95,
+        "orders": 1169
+    }
+}
